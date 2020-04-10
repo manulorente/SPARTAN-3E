@@ -1,0 +1,4 @@
+; Un punto y coma (semicolon) significa comentario
+memory_initialization_radix = 16;
+;<LISTA DE VALORES SEPARADOS POR ESPACIO> 
+memory_initialization_vector = 4d 61 6e 75 65 6c 20 4c 6f 72 65 6e 74 65;

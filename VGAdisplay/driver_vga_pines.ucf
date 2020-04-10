@@ -1,0 +1,9 @@
+NET "clk"	LOC = "T9";
+NET "reset"	LOC = "L14";
+NET "R"		LOC = "R12";
+NET "G"		LOC = "T12";
+NET "B"		LOC = "R11";
+NET "HS"		LOC = "R9";
+NET "VS"		LOC = "T10";
+NET "BTN0"	LOC = "M13";
+NET "SW0"	LOC = "K13";
